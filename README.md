@@ -61,6 +61,8 @@ Using these inputs, the app calculates the match context and feeds the data into
 
 ## 🚀 Installation Setup
 
+> **Note:** For this project, please ensure you have **Python 3.8 to 3.13** installed on your system.
+
 Follow these steps to get the project running on your local machine!
 
 ### 1️⃣ Clone the repository
